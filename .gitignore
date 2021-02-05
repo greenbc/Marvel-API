@@ -1,0 +1,5 @@
+.vscode
+marvel-env
+__pycache__
+migrations
+.env
