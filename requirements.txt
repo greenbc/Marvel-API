@@ -14,12 +14,14 @@ flask-marshmallow==0.14.0
 Flask-Migrate==2.6.0
 Flask-SQLAlchemy==2.4.4
 Flask-WTF==0.14.3
+gunicorn==20.0.4
 idna==2.10
 itsdangerous==1.1.0
 Jinja2==2.11.3
 Mako==1.1.4
 MarkupSafe==1.1.1
 marshmallow==3.10.0
+Pillow==8.1.0
 psycopg2==2.8.6
 pycparser==2.20
 PyJWT==2.0.1
